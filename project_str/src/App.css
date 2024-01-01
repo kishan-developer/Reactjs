@@ -1,0 +1,42 @@
+
+
+*{
+  margin:0;
+  padding:0;
+
+}
+
+body{
+  width:100%;
+  background-color:black;
+  padding-top:100px;
+}
+.box {
+  width:500px;
+  align-items:center;
+  padding:2rem;
+  height:200px;
+  background-color:tomato;
+  color:white;
+  margin:auto;
+}
+input {
+  font-size: 1.3rem;
+  border: none;
+  outline: none;
+  background: transparent;
+  border-bottom: 2px solid white;
+  margin-bottom: 20px;
+  padding-left: 20px;
+
+}
+
+button {
+  background-color: black;
+  color: white;
+  font-size: 1.2rem;
+  outline: none;
+  padding: 0.4rem 1.3rem;
+  margin: 1rem;
+  border-radius: 5px;
+}
